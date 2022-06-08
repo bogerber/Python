@@ -1,0 +1,7 @@
+num = 7
+
+if num > 5:
+    print("Big")
+else:
+    print("Small")
+
